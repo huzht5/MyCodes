@@ -39,7 +39,7 @@ func main() {
 
 **实验截图**
 
-![](https://github.com/15331109huzehua/golang/blob/master/cloudgo/images/%E6%8D%95%E8%8E%B71.PNG) 
+![](https://github.com/huzht5/MyCodes/blob/master/cloudgo/1.png) 
 
 server
 --
@@ -68,12 +68,8 @@ func main() {
 
 **实验截图**
 
-![](https://github.com/15331109huzehua/golang/blob/master/cloudgo/images/%E6%8D%95%E8%8E%B72.PNG) 
+![](https://github.com/huzht5/MyCodes/blob/master/cloudgo/2.png) 
 
 **压力测试**
 
-![](https://github.com/15331109huzehua/golang/blob/master/cloudgo/images/%E6%8D%95%E8%8E%B73.PNG)
-
-结果：
-
-![](https://github.com/15331109huzehua/golang/blob/master/cloudgo/images/%E6%8D%95%E8%8E%B74.PNG)
+![](https://github.com/huzht5/MyCodes/blob/master/cloudgo/3.png)
