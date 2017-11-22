@@ -9,4 +9,4 @@
 ### 使用说明:
 
 运行server.go
-打开http://localhost:8080/,进行测试
+打开浏览器并输入网址http://localhost:8080/
